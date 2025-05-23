@@ -1,0 +1,9 @@
+.e  {
+  background-color: black;
+  color: red;
+  font: 30px "Silkscreen", sans-serif;
+  border: 2px solid red;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
